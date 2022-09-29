@@ -1,4 +1,7 @@
-## Model evaluation in R
+## Model evaluation in R : supervised
+1. insight: Easy Access to Model Information for Various Model Objects : https://easystats.r-universe.dev/ui#package:insight
+2. performance: Assessment of Regression Models Performance : https://easystats.r-universe.dev/ui#package:performance
+## Model evaluation in R : super and unsupervised (mostly)
 1. DALEX: moDel Agnostic Language for Exploration and eXplanation : https://modeloriented.r-universe.dev/ui#package:DALEX
 2. DALEXtra: Extension for 'DALEX' Package : https://modeloriented.r-universe.dev/ui#package:DALEXtra
 3. fairmodels: Flexible Tool for Bias Detection, Visualization, and Mitigation : https://modeloriented.r-universe.dev/ui#package:fairmodels
